@@ -51,7 +51,7 @@ A new question is displayed.
 
 ⚙️ Setup Instructions
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/world-capitals-quiz.git
+git clone https://github.com/HackerzPrashant/world-capitals-quiz.git
 cd world-capitals-quiz
 
 2️⃣ Install Dependencies
